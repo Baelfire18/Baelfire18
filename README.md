@@ -7,7 +7,7 @@
     - Introduction to Programming 🔥💻
     - Advance Programming 🧠🖥️
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org)👨‍💻 
-    - Technologies and Web Applications 🕷️👨‍💻 
+    - Technologies and Web Applications  🎧🕷️ 
 - 🌱 I’m currently learning a bit of everything 🤣
 
 <!--
