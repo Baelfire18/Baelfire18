@@ -68,8 +68,11 @@
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=Migrations-Associations&theme=tokyonight)](https://github.com/Baelfire18/Migrations-Associations)
-
-
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=bookkers-frontend&theme=tokyonight)](https://github.com/Baelfire18/bookkers-frontend)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=bookkers-backend&theme=tokyonight)](https://github.com/Baelfire18/bookkers-backend)
+<br />
 
 <!-- 
 [website]: https://codeSTACKr.com
