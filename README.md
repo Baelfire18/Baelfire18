@@ -29,6 +29,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Languages:
 
@@ -44,6 +45,7 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
 <br />
+<br />
 
 ### Frameworks:
 
@@ -51,6 +53,7 @@
 <img align="left" alt="Koa" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<br />
 <br />
 
 ### Tools:
@@ -65,6 +68,8 @@
 ---
 
 ![Jose Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baelfire18&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baelfire18&count_private=true&show_icons=true&langs_count=10&layout=compact&hide=jupyter%20notebook&custom_title=Top%20Langs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=Migrations-Associations&theme=tokyonight)](https://github.com/Baelfire18/Migrations-Associations)
