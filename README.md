@@ -68,7 +68,7 @@
 ---
 
 ![Jose Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baelfire18&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baelfire18&count_private=true&show_icons=true&langs_count=10&layout=compact&hide=jupyter%20notebook&custom_title=Top%20Langs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baelfire18&count_private=true&show_icons=true&langs_count=10&layout=compact&custom_title=Top%20Langs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
