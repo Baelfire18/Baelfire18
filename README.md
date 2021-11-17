@@ -54,7 +54,6 @@
 ### Frameworks:
 
 <img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Koa" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -105,4 +104,4 @@ or via <a href="mailto:jacastro18@uc.cl"><b>email</b></a>
 
 [twitter]: https://twitter.com/tony_castro18/
 [instagram]: https://www.instagram.com/ja_castro321/
-[linkedin]: www.linkedin.com/in/jose-antonio-castro-guevara/
+[linkedin]: https://www.linkedin.com/in/jose-antonio-castro-guevara/
