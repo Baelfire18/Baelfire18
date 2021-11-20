@@ -33,7 +33,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
-<br />
 
 ### Languages:
 
@@ -93,8 +92,12 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=GitHub&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-00599C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) <!-- ![Windows](https://img.shields.io/badge/windows-steelblue?style=for-the-badge&logo=windows&logoColor=white) -->
+![Ubuntu](https://img.shields.io/badge/ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL_2-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime-4C4C4C?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=e1ad01)
@@ -102,6 +105,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-121011?style=for-the-badge&logo=Unity&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)
 <br />
 
 ---
