@@ -50,12 +50,20 @@
 ![R](https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=yellow)
 <br />
 
-### Frameworks:
+### Web Frameworks:
 
 ![Rails](https://img.shields.io/badge/Rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=black)
 ![Koa](https://img.shields.io/badge/Koa-ffffff?style=for-the-badge&logo=koa&logoColor=black)
 ![Express](https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=express&logoColor=black)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-232F3E?style=for-the-badge&logo=react&logoColor=00C7B7)
+
+### CSS Frameworks:
+
+![Tailwind](https://img.shields.io/badge/tailwind-14B4C6?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+![Bulma](https://img.shields.io/badge/bulma-00D1b1?style=for-the-badge&logo=bulma&logoColor=ffffff)
+![Boostrap](https://img.shields.io/badge/bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 <br />
 
 ### Tools:
