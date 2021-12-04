@@ -9,7 +9,8 @@
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org)👨‍💻 
     - Technologies and Web Applications  🎧🕷️ 
 - 🌱 I’m currently learning a bit of everything 🤣
-- ⚡ I’m currently contribuiting with [**Open Source UC**](https://github.com/open-source-uc)
+- ⚡ I’m currently contribuiting with [**Open Source UC**](https://github.com/open-source-uc).
+- 😄 Here is the [**git convention style guide**](https://la-guia.platan.us/setup/proyectos/git) that I try to use 🍌.
 
 <br />
 
