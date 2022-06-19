@@ -65,16 +65,21 @@
 ![Tailwind](https://img.shields.io/badge/tailwind-14B4C6?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![Bulma](https://img.shields.io/badge/bulma-00D1b1?style=for-the-badge&logo=bulma&logoColor=ffffff)
 ![Boostrap](https://img.shields.io/badge/bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![MUI](https://img.shields.io/badge/material_ui-071A2F?style=for-the-badge&logo=mui&logoColor=0180FF)
 <br />
 
 ### Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=GitHub&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-white?style=for-the-badge&logo=BitBucket&logoColor=0052cc)
+![Trello](https://img.shields.io/badge/TRELLO-026AA7?style=for-the-badge&logo=TRELLO&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=JiraSoftware&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL_2-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyPi](https://img.shields.io/badge/pypi-FFD242?style=for-the-badge&logo=pypi)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=e1ad01)
@@ -91,11 +96,17 @@
 
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=Migrations-Associations&theme=tokyonight)](https://github.com/Baelfire18/Migrations-Associations)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=Data-Structures-And-Algorithms&theme=tokyonight)](https://github.com/Baelfire18/Data-Structures-And-Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=read-dotenv-files&theme=tokyonight)](https://github.com/Baelfire18/read-dotenv-files)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=Wind-Turbine-Data&theme=tokyonight)](https://github.com/Baelfire18/Wind-Turbine-Data)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=snail_print&theme=tokyonight)](https://github.com/Baelfire18/snail_print)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=py-digits&theme=tokyonight)](https://github.com/Baelfire18/py-digits)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=bookkers-frontend&theme=tokyonight)](https://github.com/Baelfire18/bookkers-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=bookkers-backend&theme=tokyonight)](https://github.com/Baelfire18/bookkers-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=git-updater&theme=tokyonight)](https://github.com/Baelfire18/git-updater)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=country-search-graphql&theme=tokyonight)](https://github.com/Baelfire18/country-search-graphql)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baelfire18&repo=Data-Structures-And-Algorithms&theme=tokyonight)](https://github.com/Baelfire18/Data-Structures-And-Algorithms)
 <br />
 
 ---
