@@ -4,10 +4,12 @@
 
 - 🤓 I'm currently studying **Software Engineering** at the Pontific Catholic University of Chile.
 - 🔭 I've worked and am currently working on the assistantships of 
-    - Introduction to Programming 🔥💻
-    - Advance Programming 🧠🖥️
+    - Introduction to Computer Programming 🔥💻
+    - Advance Computer Programming 🧠🖥️
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org)👨‍💻 
-    - Technologies and Web Applications  🎧🕷️ 
+    - Web Technologies and Applications  🎧🕷️
+    - Data Structures and Algorithms 💾🔍
+    - Workshop: Major-Field Project 🖧⚙️
 - 🌱 I’m currently learning a bit of everything 🤣
 - ⚡ I’m currently contribuiting with [**Open Source UC**](https://github.com/open-source-uc).
 - 😄 Here is the [**git convention style guide**](https://la-guia.platan.us/setup/proyectos/git) that I try to use 🍌.
