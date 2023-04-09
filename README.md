@@ -42,10 +42,11 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-cc0000?style=for-the-badge&logo=ruby&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-steelblue?style=for-the-badge&logo=css3&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-e30052?style=for-the-badge&logo=SQL)
+![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB)
 ![PHP](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=PHP&logoColor=ffffff)
@@ -61,6 +62,12 @@
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-232F3E?style=for-the-badge&logo=react&logoColor=00C7B7)
+![Next.JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)
+<!--
+![Vite](https://img.shields.io/badge/Vite-yellow?style=for-the-badge&logo=Vite)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.JS](https://img.shields.io/badge/nuxt.js-black?style=for-the-badge&logo=nuxtdotjs)
+-->
 
 ### CSS Frameworks:
 
@@ -84,6 +91,7 @@
 ![PyPi](https://img.shields.io/badge/pypi-FFD242?style=for-the-badge&logo=pypi)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=e1ad01)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
