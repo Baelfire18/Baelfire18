@@ -3,7 +3,7 @@
 ## I'm a Student, Teaching assistant and Developer
 
 - 🤓 I'm currently studying **Software Engineering** at the Pontific Catholic University of Chile.
-- 🔭 I've worked and am currently working on the assistantships of 
+- 🔭 I've worked on the assistantships of 
     - Introduction to Computer Programming 🔥💻
     - Advance Computer Programming 🧠🖥️
     - Software Engineering [![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby") ](https://www.ruby-lang.org)👨‍💻 
@@ -11,7 +11,7 @@
     - Data Structures and Algorithms 💾🔍
     - Workshop: Major-Field Project 🖧⚙️
 - 🌱 I’m currently learning a bit of everything 🤣
-- ⚡ I’m currently contribuiting with [**Open Source UC**](https://github.com/open-source-uc).
+- ⚡ I've contribuited with [**Open Source UC**](https://github.com/open-source-uc).
 - 😄 Here is the [**git convention style guide**](https://la-guia.platan.us/setup/proyectos/git) that I try to use 🍌.
 
 <br />
@@ -31,7 +31,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
 
-[<img align="left" alt="codeSTACKr | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<!-- [<img align="left" alt="codeSTACKr | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter] -->
 [<img align="left" alt="codeSTACKr | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 [<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -63,11 +63,9 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-232F3E?style=for-the-badge&logo=react&logoColor=00C7B7)
 ![Next.JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)
-<!--
 ![Vite](https://img.shields.io/badge/Vite-yellow?style=for-the-badge&logo=Vite)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.JS](https://img.shields.io/badge/nuxt.js-black?style=for-the-badge&logo=nuxtdotjs)
--->
 
 ### CSS Frameworks:
 
@@ -132,9 +130,10 @@ or via <a href="mailto:jacastro18@uc.cl"><b>email</b></a>
 <!-- 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[youtube]: https://youtube.com/codeSTACKr -->
-
+[youtube]: https://youtube.com/codeSTACKr
 [twitter]: https://twitter.com/tony_castro18/
+-->
+
 [telegram]: https://t.me/ImTheRealTony/
 [instagram]: https://www.instagram.com/ja_castro321/
 [linkedin]: https://www.linkedin.com/in/jose-antonio-castro-guevara/
